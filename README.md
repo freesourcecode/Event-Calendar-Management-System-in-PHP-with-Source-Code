@@ -63,7 +63,7 @@ Open a browser and go to the URL "http://localhost/event_management/".
 9. **Explore manipulating**.
 Final step, login from the User’s login side. Just provide the Admin’s login details, and it will redirect you to the Admin panel.
 
-## Full documentation for the Event Calendar in PHP is available at: ⬇️⬇️⬇️
+## Full documentation for the Event Calendar Management System in PHP is available at: ⬇️⬇️⬇️
 https://itsourcecode.com/free-projects/php-project/event-calendar-in-php-free-download/
 
 
